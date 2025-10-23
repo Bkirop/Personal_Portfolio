@@ -23,9 +23,6 @@ This is the personal portfolio website of Brian Kirop, a Data Analyst passionate
 - Email: briankirop@gmail.com
 - Phone: +254728251765
 
-## License
-This project is open-source and available under the MIT License.
-
 ---
 
 Thank you for visiting my portfolio!
