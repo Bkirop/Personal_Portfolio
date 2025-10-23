@@ -15,20 +15,7 @@ This is the personal portfolio website of Brian Kirop, a Data Analyst passionate
 ## Technologies Used
 - HTML5 for structure and content
 - CSS3 (external `style.css`) for styling and responsive design
-- Flexbox and media queries for layout and adaptability to different screen sizes
 
-## Usage
-1. Clone or download the repository:
-git clone https://github.com/Bkirop/Your-Portfolio-Repo.git
-2. Open `index.html` in any modern web browser to view the portfolio locally.
-3. Customize contents in `index.html` and `style.css` to update portfolio information and styling.
-4. Upload the project to a hosting service (GitHub Pages, Netlify, etc.) to make it publicly accessible.
-
-## Project Structure
-/images # Folder containing profile images and logos
-index.html # The main HTML file for the portfolio website
-style.css # External CSS file for styling
-README.md # This file
 
 ## Contact
 - GitHub: [https://github.com/Bkirop](https://github.com/Bkirop)
